@@ -1,0 +1,26 @@
+{
+    "employees":
+    [
+        {
+            "name": "John smith",
+            "department": "IT",
+            "salary": 75000,
+            "Started": "Jan-15-2020",
+            "skills":[
+                        "java",
+                        "python",
+                        "SQL"
+            ]
+        },
+        {
+            "name": "Sarah Johnson",
+            "department": "HR",
+            "salary": 65000,
+            "Started": "Mar-01-2019",
+            "skills":[
+                        "recruitment",
+                        "training"
+            ]
+        }
+    ]
+}
