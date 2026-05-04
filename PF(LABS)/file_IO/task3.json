@@ -1,6 +1,29 @@
 {
+    "post":
+{
     "id": "Alice",
-    "Post": "Just finished my Java project"
+    "Post": "Just finished my Java project",
     "Date": "Jan-20-2024",
+    "Time": "3:45 pM",
+    "Like":[
+        {"count": 15},
+        {"id":["Bob","Charlie","Diana"]}
+        ],
+    "Comment":[
+        {
+        "id": "Bob",
+        "text": "Great work!"
+        },
+        {
+        "id": "Charlie",
+        "text": "Congratulations!"
+        },
+        {
+        "id": "Diana",
+        "text": "well done, Alice!"
+        }
+    ],
+    "Tagged":["#programming","#java"]
 
+}
 }
