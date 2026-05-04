@@ -1,0 +1,16 @@
+employees:
+  - name: John Doe
+    department: IT
+    salary: 75000
+    Startdate: Jan-15-2020
+    Skills:
+      - Python
+      - Java
+      - SQL
+  - name: Sarah johnson
+    department: HR
+    salary: 65000
+    Startdate: Mar-01-2019
+    Skills:
+      - Recruitment
+      - Training
