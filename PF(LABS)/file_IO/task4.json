@@ -1,0 +1,30 @@
+{
+    "order":{
+        "id": 1001,
+        "Customer": "Alice johnson",
+        "email": "alice@email.com",
+        "date": "Jan-15-2024",
+        "Item":[
+            {
+                "Product": "Laptop",
+                "quantity": 2,
+                "price": 1200
+            },
+            {
+                "Product": "mouse",
+                "quantity": 1,
+                "price": 25
+            }
+        ],
+        "Address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10001"
+        },
+        "total": 1225,
+        "payment method": "Credit Card",
+        "Status": "Shipped"
+
+    }
+}
